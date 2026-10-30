@@ -144,4 +144,4 @@ The project demonstrates how structured data analysis can help explore customer 
 
 ## Author
 
-Anis Mo
+anis-mo
