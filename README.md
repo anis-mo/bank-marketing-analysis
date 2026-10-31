@@ -2,7 +2,7 @@
 
 ## 📌Project Overview
 
-This project analyzes a bank marketing dataset using MySQL. The main objective is to clean the raw data. perform zxploratory data analysis (EDA), and extract meaningful business insights that can support marketing decisions.
+This project analyzes a bank marketing dataset using MySQL. The main objective is to clean the raw data. perform exploratory data analysis (EDA), and extract meaningful business insights that can support marketing decisions.
 
 ---
 
@@ -18,7 +18,7 @@ This project analyzes a bank marketing dataset using MySQL. The main objective i
 
 # 🗒️Dataset 
 
-The dataset contains customer information collected from a bank marketing compaign.
+The dataset contains customer information collected from a bank marketing campaign.
 
 Main features include:
 
@@ -69,10 +69,10 @@ The analysis answers questions such as:
 - Which contact method is used most frequently?
 - Which month has the highest number of marketing contacts?
 - What is the average call duration by month?
-- Which compaign has the highest subscription rate?
+- Which campaign has the highest subscription rate?
 - Which job has the highest subscription rate?
 - Rank jobs by average yearly balance.
-- Rank months by successfull subscriptions.
+- Rank months by successful subscriptions.
 - Compare the average age of subscribed and non-subscribed customers.
 
 ---
