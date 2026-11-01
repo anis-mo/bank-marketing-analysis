@@ -142,6 +142,22 @@ Through data cleaning, data transformation, aggregation, and exploratory SQL que
 
 The project demonstrates how structured data analysis can help explore customer behavior, evaluate marketing outcomes, and support data-driven decisions in the banking sector.
 
+📚 Data Source & License
+
+Dataset: Bank Marketing Dataset
+
+Source: Kaggle
+
+License: Creative Commons Attribution 4.0 International (CC BY 4.0)
+
+Update Frequency: Never
+
+The dataset was obtained from Kaggle and is used for educational and analytical purposes.
+
+Attribution: Credit is given to the original dataset creator. The dataset is shared under the Creative Commons Attribution 4.0 International License.
+
+Dataset Link: (https://www.kaggle.com/datasets/razanihababdellatif/bank-marketing-and-customer-behavior-dataset)
+
 ## Author
 
 anis-mo
